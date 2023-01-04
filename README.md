@@ -2,5 +2,6 @@
 ![Banner](./GitHub-Banner.png)
 [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/jasonchristopher24/)
 [![Gmail](./gmail.png)](https://jchristopher2448@gmail.com)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-christopher&layout=compact&theme=radical&langs_count=8)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jason-christopher&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-christopher&layout=compact&theme=radical&langs_count=8)
