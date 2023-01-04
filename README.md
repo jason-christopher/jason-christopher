@@ -1,5 +1,4 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jason-christopher&left_color=black&right_color=blue)
-
 ![Banner](./GitHub-Banner.png)
 [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/jasonchristopher24/)
 [![Gmail](./gmail.png)](https://jchristopher2448@gmail.com)
