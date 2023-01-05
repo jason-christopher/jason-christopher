@@ -4,4 +4,4 @@
 [![Gmail](./gmail.png)](mailto:jchristopher2448@gmail.com)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jason-christopher&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-christopher&layout=compact&theme=radical&langs_count=4)(https://github.com/jason-christopher/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-christopher&layout=compact&theme=radical&langs_count=4)](https://github.com/jason-christopher/github-readme-stats)
