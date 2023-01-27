@@ -5,3 +5,5 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jason-christopher&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-christopher&layout=compact&theme=dark&langs_count=4)](https://github.com/jason-christopher/github-readme-stats)
+
+![Snake animation](https://github.com/jason-christopher/jason-christopher/blob/output/github-contribution-grid-snake.svg)
