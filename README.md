@@ -14,5 +14,5 @@
 <!-- Top Languages -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-christopher&layout=compact&theme=dark&langs_count=4)](https://github.com/jason-christopher/github-readme-stats)
 
-<!-- Snake Contribution Animation (works via GitHub Actions) -->
-![Snake animation](https://github.com/jason-christopher/jason-christopher/blob/output/github-contribution-grid-snake.svg)
+<!-- Dark-themed Snake Contribution Animation -->
+![Snake animation](https://github.com/jason-christopher/jason-christopher/blob/output/github-contribution-grid-snake-dark.svg)
