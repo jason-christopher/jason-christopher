@@ -1,5 +1,5 @@
 <!-- Visitor Badge (shields.io) -->
-![Visitor Count](https://img.shields.io/badge/Visitors-🔢%20Tracking%20via%20profile--views-blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=jason-christopher&style=flat-square&color=blue)
 
 <!-- Profile Banner -->
 ![GitHub Banner](./GitHub-Banner.png)
@@ -15,4 +15,4 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-christopher&layout=compact&theme=dark&langs_count=4)](https://github.com/jason-christopher/github-readme-stats)
 
 <!-- Snake Contribution Animation (works via GitHub Actions) -->
-![Snake animation](https://raw.githubusercontent.com/jason-christopher/jason-christopher/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jason-christopher/jason-christopher/blob/output/github-contribution-grid-snake.svg)
